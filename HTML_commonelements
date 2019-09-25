@@ -1,0 +1,12 @@
+<html>
+  <head>
+    <title>HTML Content</title>
+  </head>
+  <body>
+    <h1>Why is HTML so succesful?</h1>
+    
+    <p>HTML is <em>easy</em> to learn.</p>
+    <p>HTML is <em>fun</em>.</p>
+    <p>HTML is <em><strong>powerful</strong></em></p>
+  </body>
+</html>
